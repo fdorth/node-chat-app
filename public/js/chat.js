@@ -108,7 +108,7 @@ socket.emit(
   error => {
     if (error) {
       alert(error)
-      location.href = '/ddddd'
+      location.href = '/'
     }
   }
 )
